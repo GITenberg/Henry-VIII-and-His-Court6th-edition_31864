@@ -1,0 +1,33 @@
+_repo: Henry-VIII-and-His-Court6th-edition_31864
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tree, Herbert Beerbohm, Sir
+    alias: Beerbohm, Herbert Draper, Sir
+    birthdate: 1852
+    deathdate: 1917
+    gutenberg_agent_id: '35521'
+    url: http://www.gutenberg.org/2009/agents/35521
+description: ''
+gutenberg_issued: '2010-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 16th century'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547'
+- !lcsh 'Shakespeare, William, 1564-1616. King Henry VIII'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Kings and rulers -- Biography'
+- !lcsh 'Henry VIII, King of England, 1491-1547 -- Relations with courts and courtiers'
+title: 'Henry VIII and His Court
+
+  6th edition'
+url: http://www.gutenberg.org/ebooks/31864
